@@ -1,0 +1,59 @@
+{
+  "Clientes": [
+    {
+      "Nome": "Carla Bittencourt",
+      "Cpf": "987.654.321-00"
+    },
+    {
+      "Nome": "Fernanda Montgomery",
+      "Cpf": "123.456.789-00"
+    },
+    {
+      "Nome": "Rodrigo",
+      "Cpf": "1234455666"
+    }
+  ],
+  "Perfumes": [
+    {
+      "Nome": "Chanel No. 5",
+      "Marca": "Chanel",
+      "Preco": 50000
+    },
+    {
+      "Nome": "J\u0027adore",
+      "Marca": "Dior",
+      "Preco": 45000
+    },
+    {
+      "Nome": "Opium",
+      "Marca": "Yves Saint Laurent",
+      "Preco": 35050
+    }
+  ],
+  "Vendas": [
+    {
+      "ClienteCpf": "123.456.789-00",
+      "PerfumeNome": "Chanel No. 5",
+      "DataVenda": "2024-09-16",
+      "Preco": 50000
+    },
+    {
+      "ClienteCpf": "987.654.321-00",
+      "PerfumeNome": "J\u0027adore",
+      "DataVenda": "2024-09-15",
+      "Preco": 45000
+    },
+    {
+      "ClienteCpf": "923.625.303-00",
+      "PerfumeNome": "Opium",
+      "DataVenda": "2024-09-17",
+      "Preco": 35000
+    },
+    {
+      "ClienteCpf": "1234455666",
+      "PerfumeNome": "Kaiak",
+      "DataVenda": "2024-09-17",
+      "Preco": 200
+    }
+  ]
+}
